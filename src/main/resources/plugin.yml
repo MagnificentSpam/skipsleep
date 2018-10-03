@@ -1,0 +1,11 @@
+name: ${name}
+version: ${version}
+description: ${description}
+author: ${author}
+website: ${url}
+main: ${mainClass}
+commands:
+  blocksleep:
+    description: prevent skipping the night
+  unblocksleep:
+    description: stop preventing skipping the night
